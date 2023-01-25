@@ -1,10 +1,8 @@
 <h1 align="center">Imtiazul Islam</h1>
-<h3 align="center">A passionate frontend web developer</h3>
-
 
 ![I am a Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQG_bfNk-UMJrg/profile-displaybackgroundimage-shrink_350_1400/0/1673485946971?e=1680134400&v=beta&t=jYxNiS7dI7dkprfKu-eBuVvIdDaB3fGOSnzn49L1bZk)
 
-He is a MERN stack web developer with the advanced ability to learn anything quickly. 
+<h3>He is a MERN stack web developer with the advanced ability to learn anything quickly. </h3> 
 
 <h3 align="left">Connect:</h3>
 <p align="left">
