@@ -34,4 +34,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiajul-islam-d)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiajul-islam-d&show_icons=true)  
 
