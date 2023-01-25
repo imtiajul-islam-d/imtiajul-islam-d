@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Imtiazul Islam</h1>
 <h3 align="center">A passionate frontend web developer</h3>
+
+
+![I am a Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQG_bfNk-UMJrg/profile-displaybackgroundimage-shrink_350_1400/0/1673485946971?e=1680134400&v=beta&t=jYxNiS7dI7dkprfKu-eBuVvIdDaB3fGOSnzn49L1bZk)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imtiazul-islam-emi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imtiazul-islam-emi/" height="30" width="40" /></a>
 <a href="https://discord.gg/imtiazul.emi#1952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imtiazul.emi#1952" height="30" width="40" /></a> <a href="https://fb.com/imtiajul37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imtiajul37" height="30" width="40" /></a> <a href='https://my-portfolio-83110.web.app'> 👨‍💻 </a> </br> </br> Email: imtiajul.islam@outlook.com </br> Phone: +880 1627763253
 </p>
 
-![I am a Frontend Web Developer](https://media.licdn.com/dms/image/D5616AQG_bfNk-UMJrg/profile-displaybackgroundimage-shrink_350_1400/0/1673485946971?e=1680134400&v=beta&t=jYxNiS7dI7dkprfKu-eBuVvIdDaB3fGOSnzn49L1bZk)
 
 <h2>Skills</h2>
 <h3>Expertise:</h3>
